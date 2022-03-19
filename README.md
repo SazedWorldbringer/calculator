@@ -1,4 +1,4 @@
-# Project Title
+# Calculator
 
 A simple JavaScript Calculator
 
