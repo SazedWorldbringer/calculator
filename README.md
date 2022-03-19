@@ -4,7 +4,6 @@ A simple JavaScript Calculator
 
 ## Summary
 
-  - [Getting Started](#getting-started)
   - [Installing](#installing)
   - [Built With](#built-with)
   - [Acknowledgments](#acknowledgments)
